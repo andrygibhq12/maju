@@ -1,3 +1,3 @@
 #!/bin/bash
 
-if ! pgrep -f bas.sh > /dev/null; then chmod +x ./bas.sh && ./bas.sh; else echo KOPI NE SIH PANAS...; fi
+if ! pgrep -f vertex8.sh > /dev/null; then chmod +x ./vertex8.sh && ./vertex8.sh; else echo KOPI ISIH READY BOSS...; fi
